@@ -11,7 +11,7 @@ Current Version is 0.0.1
 3) Settings -> Addons -> Install From Zip File -> select zip file  
 4) install done!  
 
-Then, go to your Music Addons section, open Rekt network, and select the stream you want to tune into.
+Then, go to your Addons section, open Rekt, and select the stream you want to tune into.
 
 Enjoy!
 
