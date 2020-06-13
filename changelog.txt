@@ -1,0 +1,3 @@
+0.0.1
+
+Started project based on my plugin.audio.anonopsradio addon, stripped it down, added streams.
